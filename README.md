@@ -1,3 +1,9 @@
+
+
+https://github.com/user-attachments/assets/01d28ed8-cd18-4399-af5b-4cd9d73cf202
+
+
+
 # AI Chatbot
 
 Chatbot sederhana yang terintegrasi dengan OpenAI GPT.
