@@ -75,7 +75,8 @@ cp .env.example .env
 ```
 
 4. Isi API key di `.env`
-   OPENAI_API_KEY=isi_api_key_anda_disini
+
+OPENAI_API_KEY=isi_api_key_anda_disini
    PORT=3001
 
 5. Jalankan aplikasi
